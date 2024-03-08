@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ### My Portfolio Projects  
 
-- [Atherosclerotic Cardiovascular Disease (ASCVD) Understanding and Prediction]()  | Python
+- [Atherosclerotic Cardiovascular Disease (ASCVD) Understanding and Prediction](https://github.com/DongSyHuy/DSH_Portfolio_Projects/blob/main/ASCVD_Risk_Prediction/ASCVD_Understanding_and_Prediction.ipynb)  | Python
 
 ### Certifications  
 

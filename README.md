@@ -1,8 +1,8 @@
 ### Hello, I am Dong Sy Huy (Huy Dong).
 
-I have a background in biotechnology and have worked in manufacturing of in-vitro diagnostic medical devices. Along with that, I am also interested in programming.
+I have a background in biotechnology and have worked in the manufacturing of in-vitro diagnostic medical devices. Along with that, I am also interested in programming.
 
-During my studies and work experience, I have gained a deep understanding of the importance of data and how it can be utilized to bring great benefits in various industries such as manufacturing, business, and healthcare.
+During my studies and work experience, I have gained a deep understanding of the importance of data and how it can bring significant benefits in various industries such as manufacturing, business, and healthcare.
 
 Therefore, I have decided to pursue self-education and become a full-stack data analyst soon.
 

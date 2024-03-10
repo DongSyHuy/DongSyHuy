@@ -2,7 +2,7 @@
 
 I have a background in biotechnology and have worked in manufacturing in-vitro diagnostic medical devices. Along with that, I am also interested in programming.
 
-Through my studies and work experience, I have gained a deep understanding of the importance of data and how it can bring significant benefits in various industries such as manufacturing, business, and healthcare. Therefore, I have made the decision to pursue self-education and become a full-stack data analyst soon.
+Through my studies and work experience, I have gained a deep understanding of the importance of data and how it can bring significant benefits in various industries such as manufacturing, business, and healthcare. Therefore, I decided to pursue self-education and become a full-stack data analyst soon.
 
 - 🌱 I'm currently learning the Data Analyst Professional program.
 - 💞️ Currently, I am looking for an internship position in a project or company where I can further develop my skills and gain practical experience.

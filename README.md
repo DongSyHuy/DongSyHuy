@@ -7,7 +7,7 @@ During my studies and work experience, I have gained a deep understanding of the
 I am currently looking for an internship position in a project or company where I can further develop my skills and gain practical experience.
 
 - 🌱 I’m currently learning the Data Analyst Professional program.
-- 💞️ I’m looking to collaborate on interesting projects.
+- 💞️ I am currently looking for an internship position in a project or company where I can further develop my skills and gain practical experience.
 - 📫 Please contact me at [dshuy81@gmail.com](mailto:dshuy81@gmail.com) 
 <!---
 DongSyHuy/DongSyHuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

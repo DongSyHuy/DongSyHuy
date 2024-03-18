@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"></a>
  <a href="https://www.datacamp.com/certificate/DAA0014128721823" target="_blank" rel="noreferrer"><img src="https://github.com/DongSyHuy/DongSyHuy/blob/main/Certification/DAA%20badge.png" width="120" height="145" alt="DAA" /></a>
- <a href="https://drive.google.com/file/d/1uB4YnDWyeqZNy6SWgrGbm2_re8W9h7eP/view?usp=drive_link" target="_blank" rel="noreferrer"><img src="https://github.com/DongSyHuy/DongSyHuy/blob/main/Certification/mindxtechnologyschool_logo.jpg" width="120" height="145" alt="DAA" /></a>
+ <a href="https://drive.google.com/file/d/1uB4YnDWyeqZNy6SWgrGbm2_re8W9h7eP/view?usp=drive_link" target="_blank" rel="noreferrer"><img src="https://github.com/DongSyHuy/DongSyHuy/blob/main/Certification/MindX_logo.png" width="120" height="145" alt="DA" /></a>
 </p>
 
 ### Technical Skills  
